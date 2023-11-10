@@ -1,0 +1,3 @@
+langchain
+langchain-cli
+huggingface_hub
