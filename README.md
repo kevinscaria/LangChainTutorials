@@ -9,7 +9,7 @@ This repository includes the following:
 
 ## Get Started
 
-1. Get your OpenAI and HuggingFace API tokens.
+1. Get your [OpenAI](https://platform.openai.com/signup) and [HuggingFace](https://huggingface.co/settings/tokens) API tokens.
 
 > [!IMPORTANT]  
 > Start by creating a `.env` file in the root directory of this repository clone.
