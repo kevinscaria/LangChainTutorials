@@ -11,6 +11,8 @@ This repository includes the following:
 > [!IMPORTANT]  
 > Start by creating a <.env> file in the root directory of this repository clone.
 
+<!-- COMMENT -->
+
 1. In the .env file create the following KEYS:
 ```
 HUGGINGFACE_API_TOKEN=<YOUR_API_TOKEN>
