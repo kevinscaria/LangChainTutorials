@@ -9,7 +9,7 @@ This repository includes the following:
 
 ## Get Started
 > [!IMPORTANT]  
-> Start by creating a .env file in the root directory of this repository clone.
+> Start by creating a <.env> file in the root directory of this repository clone.
 
 1. In the .env file create the following KEYS:
 ```
